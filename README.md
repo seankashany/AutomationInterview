@@ -9,9 +9,6 @@ Before you can run the Cypress tests, make sure you have the following installed
 3. **Cypress** (will be installed via npm).
 
 ---
-## Step 0.1: installe Cypress
-
-open your console and type "
 
 ## Step 1: Clone the Repository
 
